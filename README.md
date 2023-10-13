@@ -1,5 +1,10 @@
 ## Oiii eu sou a Vitória Grazielle, estudante de conteúdo de programação e tecnologia!
 
+<div><a href="https://github.com/Ivazie">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=Ivazie&show_icons=true&theme=dracula&include_a11_commits=true&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivazie&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Iva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
