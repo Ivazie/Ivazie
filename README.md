@@ -1,4 +1,4 @@
-## Oiii eu sou a Vitória Grazielle, estudante de conteúdo de programação e tecnologia!
+## Ooi, sou a Vitória Grazielle, estudante de deprogramação e tecnologia!
 
 <div>
   <a href="https://github.com/Ivazie">
