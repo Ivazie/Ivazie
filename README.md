@@ -8,8 +8,6 @@
 <p>
   Hi , Eu sou a Vi! Uma apaixonada estudante de Análise de Sistemas.
 
-  -  I’m currently studying Data Science and Computer Science at Harvard.
-
   -  Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP.
 </p>
 
@@ -19,7 +17,7 @@
 
   - 💬 Tenho 18 anos e atualmente moro no Brasil.
 
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.\o/
+  -  Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.\o/
 </details>
 
 <!-- Links -->
@@ -29,7 +27,7 @@
 
 <!-- Portfolio -->
 ## Portfolio
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+  <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 
 <!-- GIF -->
 <p align="left">
