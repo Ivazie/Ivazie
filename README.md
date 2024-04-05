@@ -1,7 +1,7 @@
 
 <img align="right" alt="" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5576D9&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Vit%C3%B3ria!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5576D9&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Vit%C3%B3ria!)](https://git.io/typing-svg)
 
 
 
@@ -38,23 +38,3 @@
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivazie&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=5576D9&text_color=5576D9&border_radius=3&border_color=5576D9&icon_color=FF00F6&theme=jolly)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivazie&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=5576D9&hide=html,css&bg_color=000&text_color=5576D9&border_radius=3&border_color=561760&count_private=true)](https://github.com/ivazie/github-readme-stats)
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
-
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a>.
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
-  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
-
-</details>
