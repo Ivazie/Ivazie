@@ -1,7 +1,7 @@
 
 <img align="right" alt="" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=02733E&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Vit%C3%B3ria!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=02733E&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Vit%C3%B3ria+<3)](https://git.io/typing-svg)
 
 
 
@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=02733E&color:FFF)](mailto:contato.silvavitoria@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02733E&color:FFF)](https://www.linkedin.com/in/vit%C3%B3ria-grazielle-da-silva-b8a84826b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=02733E&color:FFF)](https://www.instagram.com/vt5ria/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=78BEE9&color:FFF)](mailto:contato.silvavitoria@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=78BEE9&color:FFF)](https://www.linkedin.com/in/vit%C3%B3ria-grazielle-da-silva-b8a84826b/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=78BEE9&color:FFF)](https://www.instagram.com/vt5ria/)
 
 <h3 align="left">My Stack</h3>
 
@@ -49,8 +49,8 @@
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivazie&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=02733E&text_color=02733E&border_radius=3&border_color=02733E&icon_color=#02733E&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivazie&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=02733E&hide=html,css&bg_color=000&text_color=02733E&border_radius=3&border_color=02733E&count_private=true)](https://github.com/ivazie/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivazie&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=78BEE9&text_color=02733E&border_radius=3&border_color=02733E&icon_color=78BEE9&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivazie&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=78BEE9&hide=html,css&bg_color=000&text_color=02733E&border_radius=3&border_color=02733E&count_private=true)](https://github.com/ivazie/github-readme-stats)
 <br>
 
 ---
