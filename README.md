@@ -1,4 +1,3 @@
-
 <img align="right" alt="" height="300px" src="./me.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=02733E&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Vit%C3%B3ria+<3)](https://git.io/typing-svg)
@@ -56,6 +55,7 @@
 
 ---
 
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <h1 style="display: inline-block"> <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem"></h1>
+</div>
