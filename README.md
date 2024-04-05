@@ -1,22 +1,21 @@
-<h2 align="left">Olá 👋! Me chamo Vitória</h2>
-<!--título-->
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá, me chamo Vitória! 🤍 </h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, Eu sou a Vi! Uma apaixonada estudante de Análise de Sistemas.
+  Hi , Eu sou a Vi! Uma apaixonada estudante de Análise de Sistemas.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  -  I’m currently studying Data Science and Computer Science at Harvard.
 
-  - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP.
+  -  Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>Entre em contato 👩🏻‍💻</summary>
 
   - 💬 Tenho 18 anos e atualmente moro no Brasil.
 
@@ -28,11 +27,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vt5ria/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-grazielle-da-silva-b8a84826b/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
 <!-- Portfolio -->
-## Portfolio:
+## Portfolio
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
 
 <!-- GIF -->
@@ -40,10 +36,10 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de programação</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -73,7 +69,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas e estruturas</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
