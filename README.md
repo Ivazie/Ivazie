@@ -5,7 +5,8 @@
 
 
 
-<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista). Sou uma desenvolvedora Full-Stack, mas tenho um especial interesse e paixão pelo Front-End. Minhas principais habilidades estão concentradas em linguagens como JavaScript e C#. Estou sempre dedicada a me atualizar e aprimorar meus conhecimentos na área de tecnologia, pois adoro aprender e utilizar minha expertise para criar soluções inovadoras.
+<p align="left"> Atualmente, sou uma estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista). Sou uma desenvolvedora Full-Stack.
+<p align="left"> Minhas principais habilidades estão concentradas em linguagens como JavaScript e C#. Estou sempre dedicada a me atualizar e aprimorar meus conhecimentos na área de tecnologia, pois adoro aprender e utilizar minha expertise para criar soluções inovadoras.
 
 
 <h3 align="left">Connect with me!</h3>
